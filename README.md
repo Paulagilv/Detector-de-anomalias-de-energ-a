@@ -1,0 +1,1 @@
+# Detector-de-anomalias-de-energ-a
