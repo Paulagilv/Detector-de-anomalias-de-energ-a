@@ -11,6 +11,6 @@
 
 # Videos
 
-# Entrega 2
 
-https://www.youtube.com/watch?v=JDsj2zBU4yo
+
+ [Entrega 2](https://www.youtube.com/watch?v=JDsj2zBU4yo) 
