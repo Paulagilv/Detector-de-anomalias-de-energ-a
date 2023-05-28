@@ -12,7 +12,9 @@
 # Videos
 
 
+# Entrega 2
+[Entrega 2](https://www.youtube.com/watch?v=JDsj2zBU4yo) 
 
- [Entrega 2](https://www.youtube.com/watch?v=JDsj2zBU4yo) 
+# Entrega final
 
 [Entrega final](https://www.youtube.com/watch?v=qmR6IVzA-CE)
